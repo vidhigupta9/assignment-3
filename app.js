@@ -1,7 +1,7 @@
 var MongoClient = require('mongodb').MongoClient;
 var assert = require('assert');
 var prompt = require('prompt-sync')();
-var url = "mongodb://abc1:c65sA1ROXg4rsNEMGLS4AlHDkvqkx4SjwK6LXsKUz1W76tjwR5AtdSP9dpxt3bZyukht050qOG4MZAr00G0DsA==@abc1.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@abc1@";
+var url = "";
 
 /*
 //Database
